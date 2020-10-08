@@ -21,11 +21,9 @@ public:
        			return ans;
 			}
 		}
-
        vector<int> ans{};
        return ans;
     }
-
 
 	// // BRUTE FORCE SOLUTION
  	// vector<int> twoSum(vector<int>& nums, int target) {
